@@ -17,4 +17,6 @@ for example python groww.py RELIANCE
 
 crypto
 
-python priciction.py bitcoin 10m
+python priciction.py bitcoin 10m >> 10 min pridiction
+python priciction.py bitcoin 30m >> 30 min pridiction
+
