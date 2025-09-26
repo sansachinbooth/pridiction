@@ -21,3 +21,15 @@ python priciction.py bitcoin 10m >> 10 min pridiction
 
 python priciction.py bitcoin 30m >> 30 min pridiction
 
+
+usage of crypto.py
+
+python crypto.py -h >>> help
+
+python crypto.py shiba-inu --tf 1d >> only technical analysys from real time data
+
+python crypto.py shiba-inu --tf 1d --ollama --ollama-port 11500 >> technical analysys with ai
+
+python crypto.py shiba-inu --tf 1d --ollama --ollama-port 11500 --out pridict.csv >> export csv
+
+
