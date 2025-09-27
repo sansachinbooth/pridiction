@@ -15,11 +15,10 @@ python groww.py stocksymbol >> press ENTER
 
 for example python groww.py RELIANCE
 
-crypto
+====================================================================
+usage pridiction.py \n
+python pridiction.py -h
 
-python priciction.py bitcoin 10m >> 10 min pridiction
-
-python priciction.py bitcoin 30m >> 30 min pridiction
 
 
 usage of crypto.py
