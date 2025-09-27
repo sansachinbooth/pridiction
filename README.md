@@ -23,13 +23,26 @@ python pridiction.py -h | this help prompt gives u help usage
 
 python pridiction.py bitcoin --tf 30m --out pridiction.xlsx | this prompt pridicts and eport to sheet
 
+========================================================
+
 how to analys pridiction report 
 
 python pridiction.py --check-accuracy filename.xlsx
 
-how to activate whales news and ML pridiction
+=========================================================
 
-python pridi
+=========================================================
+how to activate whales news and ML param while pridiction 
+
+coinnames is from coingecho eample >> bitcoin
+
+symbol from binance >> BTCUSDT
+
+python pridiction.py bitcoin --tf 30m --symbol BTCUSDT
+
+python pridiction.py bitcoin --tf 30m --symbol BTCUSDT --out file.xlsx | gives report
+
+=======================================================================================
 
 
 ======================================================================
