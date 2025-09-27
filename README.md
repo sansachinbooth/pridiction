@@ -16,8 +16,18 @@ python groww.py stocksymbol >> press ENTER
 for example python groww.py RELIANCE
 
 ====================================================================
-usage pridiction.py \n
-python pridiction.py -h
+
+usage pridiction.py 
+
+python pridiction.py -h | this help prompt gives u help usage
+
+python pridiction.py bitcoin --tf 30m --out pridiction.xlsx | this prompt pridicts and eport to sheet
+
+how to analys pridiction report 
+
+python ptridiction.py --check-accuracy filename.xlsx
+
+
 
 
 
