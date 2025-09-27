@@ -25,7 +25,14 @@ python pridiction.py bitcoin --tf 30m --out pridiction.xlsx | this prompt pridic
 
 how to analys pridiction report 
 
-python ptridiction.py --check-accuracy filename.xlsx
+python pridiction.py --check-accuracy filename.xlsx
+
+how to activate whales news and ML pridiction
+
+python pridi
+
+
+======================================================================
 
 
 
