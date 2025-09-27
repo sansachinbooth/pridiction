@@ -25,6 +25,8 @@ python pridiction.py bitcoin --tf 30m --out pridiction.xlsx | this prompt pridic
 
 ========================================================
 
+========================================================
+
 how to analys pridiction report 
 
 python pridiction.py --check-accuracy filename.xlsx
@@ -32,6 +34,7 @@ python pridiction.py --check-accuracy filename.xlsx
 =========================================================
 
 =========================================================
+
 how to activate whales news and ML param while pridiction 
 
 coinnames is from coingecho eample >> bitcoin
@@ -42,14 +45,12 @@ python pridiction.py bitcoin --tf 30m --symbol BTCUSDT
 
 python pridiction.py bitcoin --tf 30m --symbol BTCUSDT --out file.xlsx | gives report
 
+python pridiction.py bitcoin --tf 30m --symbol BTCUSDT --ollama --ollama-port 11500--out file.xlsx | with ai analysys
+
 =======================================================================================
 
 
 ======================================================================
-
-
-
-
 
 usage of crypto.py
 
